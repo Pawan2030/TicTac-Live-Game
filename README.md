@@ -16,8 +16,11 @@ License
 Introduction
 Welcome to the Tic-Tac-Toe Game! This web-based game allows two players to compete in the classic Tic-Tac-Toe game, where the objective is to get three of your symbols (X or O) in a row, column, or diagonal on a 3x3 grid.
 
-Demo
-[Insert link to live demo or GIF/video showcasing gameplay]
+# Live
+https://6611928f00c5bf19a2091a23--vermillion-crisp-aa839d.netlify.app
+
+![Screenshot (384)](https://github.com/Pawan2030/TicTac-Live-Game/assets/136910101/c82ed398-3f9d-4581-bb76-553ee26a3009)
+
 
 Features
 Play against a friend in multiplayer mode.
